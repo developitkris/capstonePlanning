@@ -28,7 +28,7 @@ In my final project:
 
 ## Component Structure
 
-![alt text](src/assets/images/ "an initial sketch for planning this project")
+![alt text](src/assets/images/componentstructure.png "an initial sketch of state flow")
 
 ## Setup & Installation
 
