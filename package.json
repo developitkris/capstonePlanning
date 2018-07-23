@@ -1,5 +1,5 @@
 {
-  "name": "capstone-planning",
+  "name": "stickUs",
   "version": "1.0.0",
   "description": "This repo contains material for planning an approach to creating my Capstone project",
   "main": "index.js",
@@ -24,6 +24,7 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "css-loader": "^0.28.4",
+    "dotenv-webpack": "^1.5.7",
     "eslint": "^4.13.1",
     "eslint-loader": "^1.9.0",
     "eslint-plugin-react": "^7.5.1",
