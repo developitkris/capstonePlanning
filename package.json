@@ -1,5 +1,5 @@
 {
-  "name": "stickUs",
+  "name": "stickus",
   "version": "1.0.0",
   "description": "This repo contains material for planning an approach to creating my Capstone project",
   "main": "index.js",
@@ -34,5 +34,13 @@
     "style-loader": "^0.18.2",
     "webpack": "^3.4.0",
     "webpack-dev-server": "^2.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developitkris/capstonePlanning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/developitkris/capstonePlanning/issues"
+  },
+  "homepage": "https://github.com/developitkris/capstonePlanning#readme"
 }
