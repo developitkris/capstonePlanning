@@ -1,6 +1,6 @@
 # stickUs
 
-This repo contains material for planning an approach to creating my Capstone project.
+This project is built using React Native.  It allows its user to find their current location and post customized icons for specific GPS coordinates.  The icon to select is available to the user in different categories of stickers, depending on the user's relevant situation. 
 
 By Kristi Hwang
 
@@ -53,7 +53,7 @@ Any inquiries, comments, and/or concerns can be directed to Kristi Hwang via Git
 
 ## Technologies Used
 
-* React.js
+* React Native
 * React-Redux
 * Firebase
 * JSX
